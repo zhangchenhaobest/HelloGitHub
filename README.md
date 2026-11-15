@@ -1,3 +1,29 @@
+# HelloGitHub
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Sharing interesting, beginner-friendly open-source projects from GitHub.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+分享 GitHub 上有趣、入门级的开源项目。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/521xueweihan/img_logo/master/logo/readme.gif"/>
   <br>中文 | <a href="README_en.md">English</a> | <a href="README_ja.md">日本語</a>
